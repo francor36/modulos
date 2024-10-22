@@ -1,0 +1,2 @@
+import { memorias } from "./memorias";
+
